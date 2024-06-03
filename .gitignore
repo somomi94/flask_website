@@ -1,0 +1,12 @@
+venv/
+env/
+.vscode/
+.venv/
+99*.py
+input.txt
+Readme.txt
+*.sql
+DOC.txt
+*.drawio*
+__pycache__/
+*.code-workspace
